@@ -71,6 +71,7 @@ body {
   font-family: 'Inter', system-ui, sans-serif;
   background: var(--bg);
   color: var(--text);
+  font-size: 1.15rem;
   min-height: 100vh;
   overflow-x: hidden;
   opacity: 0;
@@ -405,7 +406,7 @@ a:focus:not(:focus-visible) {
   text-decoration: none;
   font-family: 'Inter', sans-serif;
   font-weight: 600;
-  font-size: 0.9rem;
+  font-size: 1.035rem;
   padding: 8px 14px;
   border-radius: 8px;
   transition: color 0.2s, background 0.2s;
@@ -476,7 +477,7 @@ a:focus:not(:focus-visible) {
 
 .dropdown-menu li a {
   color: var(--text-muted);
-  font-size: 0.88rem;
+  font-size: 1.012rem;
   padding: 10px 14px;
   display: flex;
   align-items: center;
@@ -753,7 +754,7 @@ a:focus:not(:focus-visible) {
 .hotel-hero-intro {
   font-family: 'Inter', sans-serif;
   color: var(--text-muted);
-  font-size: 1.15rem;
+  font-size: 1.322rem;
   font-weight: 400;
   margin: 0;
   letter-spacing: 0.01em;
@@ -778,7 +779,7 @@ a:focus:not(:focus-visible) {
   align-items: center;
   gap: 8px;
   font-family: 'Inter', sans-serif;
-  font-size: 0.92rem;
+  font-size: 1.058rem;
   font-weight: 600;
   color: var(--text-muted);
   background: var(--surface);
@@ -810,7 +811,7 @@ a:focus:not(:focus-visible) {
 
 .hero-details .conference-date-location i {
   color: var(--accent);
-  font-size: 0.85em;
+  font-size: 0.977em;
 }
 
 /* ── Registration Button ─────────────────────────────────── */
@@ -826,7 +827,7 @@ a:focus:not(:focus-visible) {
   padding: 16px 40px;
   border-radius: 50px;
   text-decoration: none;
-  font-size: 0.95rem;
+  font-size: 1.092rem;
   border: none;
   cursor: pointer;
   letter-spacing: 0.03em;
@@ -875,7 +876,7 @@ a:focus:not(:focus-visible) {
 .luxury-quote.hero-quote {
   font-family: 'Inter', sans-serif;
   color: var(--text-dim);
-  font-size: 0.95rem;
+  font-size: 1.092rem;
   font-style: italic;
   text-align: center;
   margin: 0;
@@ -954,7 +955,7 @@ a:focus:not(:focus-visible) {
 }
 
 .luxury-highlights-bar .highlight-item i {
-  font-size: 1.3rem;
+  font-size: 1.495rem;
   color: var(--accent);
   flex-shrink: 0;
   transition: transform 0.3s;
@@ -969,7 +970,7 @@ a:focus:not(:focus-visible) {
 .luxury-highlights-bar .highlight-label {
   font-family: 'Inter', sans-serif;
   color: var(--text-muted);
-  font-size: 0.7rem;
+  font-size: 0.805rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -981,7 +982,7 @@ a:focus:not(:focus-visible) {
 .luxury-highlights-bar .highlight-value {
   font-family: 'Inter', sans-serif;
   color: var(--text);
-  font-size: 0.92rem;
+  font-size: 1.058rem;
   font-weight: 600;
   position: relative;
   z-index: 1;
@@ -1051,7 +1052,7 @@ a:focus:not(:focus-visible) {
 }
 
 .main-content .lead {
-  font-size: 1.1rem;
+  font-size: 1.265rem;
   line-height: 1.8;
   color: var(--text-muted);
   text-align: center;
@@ -1146,7 +1147,7 @@ a:focus:not(:focus-visible) {
 .key-link-title {
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--text);
   margin-bottom: 7px;
   position: relative;
@@ -1159,7 +1160,7 @@ a:focus:not(:focus-visible) {
 }
 
 .key-link-desc {
-  font-size: 0.88rem;
+  font-size: 1.012rem;
   color: var(--text-muted);
   opacity: 0.85;
   line-height: 1.5;
@@ -1186,7 +1187,7 @@ a:focus:not(:focus-visible) {
 }
 
 .cta-text {
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--text-muted);
   margin: 0 0 28px;
 }
@@ -1206,7 +1207,7 @@ a:focus:not(:focus-visible) {
   color: var(--text-muted);
   background: transparent;
   font-weight: 600;
-  font-size: 0.92rem;
+  font-size: 1.058rem;
   text-decoration: none;
   border-radius: 50px;
   transition: all 0.25s ease;
@@ -1327,7 +1328,7 @@ a:focus:not(:focus-visible) {
 .tmrs-tag {
   align-self: flex-start;
   font-family: 'Outfit', sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.828rem;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -1352,7 +1353,7 @@ a:focus:not(:focus-visible) {
 }
 
 .tmrs-description {
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   color: var(--text-muted);
   line-height: 1.8;
   margin: 0;
@@ -1557,7 +1558,7 @@ a:focus:not(:focus-visible) {
 .about-card-title {
   font-family: 'Outfit', sans-serif;
   color: var(--accent);
-  font-size: 1.3rem;
+  font-size: 1.495rem;
   margin: 0 0 16px;
   font-weight: 700;
   letter-spacing: -0.01em;
@@ -1566,7 +1567,7 @@ a:focus:not(:focus-visible) {
 }
 
 .about-card p {
-  font-size: 1.02rem;
+  font-size: 1.173rem;
   color: var(--text-muted);
   line-height: 1.78;
   margin-bottom: 14px;
@@ -1675,7 +1676,7 @@ a:focus:not(:focus-visible) {
 }
 
 .committee-role {
-  font-size: 0.7rem;
+  font-size: 0.805rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -1701,7 +1702,7 @@ a:focus:not(:focus-visible) {
 .committee-title {
   font-family: 'Outfit', sans-serif;
   color: var(--text);
-  font-size: 1.1rem;
+  font-size: 1.265rem;
   font-weight: 700;
   letter-spacing: -0.01em;
   margin: 0;
@@ -1726,7 +1727,7 @@ a:focus:not(:focus-visible) {
 
 .committee-bio p {
   color: var(--text-muted);
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.6;
   margin: 0;
 }
@@ -1846,7 +1847,7 @@ a:focus:not(:focus-visible) {
 .scientific-list .member-name {
   font-family: 'Outfit', sans-serif;
   color: var(--text);
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-weight: 700;
   flex: 1;
   letter-spacing: -0.01em;
@@ -1860,7 +1861,7 @@ a:focus:not(:focus-visible) {
 }
 
 .scientific-list .member-country {
-  font-size: 0.78rem;
+  font-size: 0.897rem;
   font-weight: 600;
   color: var(--text-muted);
   letter-spacing: 0.04em;
@@ -1953,7 +1954,7 @@ a:focus:not(:focus-visible) {
 }
 
 .member-icon i {
-  font-size: 1.2rem;
+  font-size: 1.38rem;
   color: var(--bg);
 }
 
@@ -1975,7 +1976,7 @@ a:focus:not(:focus-visible) {
 
 .member-name {
   font-family: 'Outfit', sans-serif;
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   font-weight: 700;
   color: var(--text);
   letter-spacing: -0.01em;
@@ -1990,7 +1991,7 @@ a:focus:not(:focus-visible) {
 }
 
 .member-role {
-  font-size: 0.72rem;
+  font-size: 0.828rem;
   color: var(--text-muted);
   font-weight: 600;
   letter-spacing: 0.1em;
@@ -2019,7 +2020,7 @@ a:focus:not(:focus-visible) {
 
 .topics-subtitle {
   color: var(--text-muted);
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   line-height: 1.65;
 }
 
@@ -2206,14 +2207,14 @@ a:focus:not(:focus-visible) {
 }
 
 .subtopic-icon i {
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--accent);
 }
 
 .subtopic-text,
 .subtopic-item span,
 .luxury-subtopic span {
-  font-size: 0.94rem;
+  font-size: 1.081rem;
   font-weight: 500;
   color: var(--text-muted);
   line-height: 1.45;
@@ -2250,7 +2251,7 @@ a:focus:not(:focus-visible) {
 
 .luxury-subtitle {
   color: var(--text-muted);
-  font-size: 1.05rem;
+  font-size: 1.208rem;
 }
 
 .luxury-topics-grid {
@@ -2287,7 +2288,7 @@ a:focus:not(:focus-visible) {
 
 /* ── Submissions ─────────────────────────────────────────── */
 .submissions-lead {
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   line-height: 1.75;
   color: var(--text-muted);
   margin: 0 0 32px;
@@ -2386,7 +2387,7 @@ h2.section-title::after {
 }
 
 .date-label {
-  font-size: 0.72rem;
+  font-size: 0.828rem;
   font-weight: 700;
   color: var(--text-muted);
   text-transform: uppercase;
@@ -2413,7 +2414,7 @@ h2.section-title::after {
 .section-subtitle {
   text-align: center;
   color: var(--text-muted);
-  font-size: 1.1rem;
+  font-size: 1.265rem;
   margin-top: -30px;
   margin-bottom: 52px;
 }
@@ -2482,7 +2483,7 @@ h2.section-title::after {
   right: 16px;
   background: linear-gradient(135deg, var(--accent), var(--light-gold));
   color: var(--bg);
-  font-size: 0.65rem;
+  font-size: 0.747rem;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -2500,7 +2501,7 @@ h2.section-title::after {
 .pricing-header h4 {
   font-family: 'Outfit', sans-serif;
   color: var(--text);
-  font-size: 1.25rem;
+  font-size: 1.438rem;
   font-weight: 600;
   margin: 0 0 16px;
 }
@@ -2526,7 +2527,7 @@ h2.section-title::after {
 
 .pricing-header .price-desc {
   color: var(--text-muted);
-  font-size: 0.85rem;
+  font-size: 0.977rem;
   margin-top: 4px;
 }
 
@@ -2544,13 +2545,13 @@ h2.section-title::after {
   align-items: flex-start;
   gap: 12px;
   color: var(--text-muted);
-  font-size: 0.95rem;
+  font-size: 1.092rem;
   line-height: 1.5;
 }
 
 .pricing-features li i {
   color: var(--accent);
-  font-size: 0.85rem;
+  font-size: 0.977rem;
   margin-top: 4px;
 }
 
@@ -2567,7 +2568,7 @@ h2.section-title::after {
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 50px;
   padding: 10px 20px;
-  font-size: 0.85rem;
+  font-size: 0.977rem;
   color: var(--text-muted);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -2671,14 +2672,14 @@ h2.section-title::after {
 .timeline-content .date-value {
   font-family: 'Outfit', sans-serif;
   color: var(--accent);
-  font-size: 1.15rem;
+  font-size: 1.322rem;
   font-weight: 700;
   min-width: 160px;
 }
 
 .timeline-content .date-label {
   color: var(--text-muted);
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   flex: 1;
 }
 
@@ -2739,14 +2740,14 @@ h2.section-title::after {
 
 .guideline-card h4 {
   font-family: 'Outfit', sans-serif;
-  font-size: 1.15rem;
+  font-size: 1.322rem;
   font-weight: 700;
   color: var(--text);
   margin: 0;
 }
 
 .guideline-card p {
-  font-size: 0.95rem;
+  font-size: 1.092rem;
   color: var(--text-muted);
   line-height: 1.7;
   margin: 0;
@@ -2780,7 +2781,7 @@ h2.section-title::after {
   align-self: flex-start;
   display: inline-block;
   font-family: 'Outfit', sans-serif;
-  font-size: 0.7rem;
+  font-size: 0.805rem;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -2801,7 +2802,7 @@ h2.section-title::after {
 }
 
 .pub-body p {
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--text-muted);
   line-height: 1.75;
   margin: 0;
@@ -2844,7 +2845,7 @@ h2.section-title::after {
 
 .cta-content p {
   color: var(--text-muted);
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   margin: 0;
 }
 
@@ -2922,7 +2923,7 @@ h2.section-title::after {
   gap: 10px;
   background: var(--surface-2);
   color: var(--accent);
-  font-size: 0.94rem;
+  font-size: 1.081rem;
   font-weight: 600;
   padding: 14px 32px;
   border: 1px solid rgba(34, 211, 238, 0.2);
@@ -2947,7 +2948,7 @@ h2.section-title::after {
 }
 
 .abstract-download-btn i {
-  font-size: 1.1em;
+  font-size: 1.265em;
 }
 
 .abstract-download-btn:hover {
@@ -2968,7 +2969,7 @@ h2.section-title::after {
   justify-content: center;
   color: var(--bg);
   background: linear-gradient(135deg, var(--accent), var(--light-gold));
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-decoration: none;
@@ -3082,7 +3083,7 @@ h2.section-title::after {
   border: 1px solid rgba(255, 255, 255, 0.15);
   border-radius: 50px;
   font-family: 'Outfit', sans-serif;
-  font-size: 0.95rem;
+  font-size: 1.092rem;
   font-weight: 600;
   color: var(--text);
   backdrop-filter: blur(20px);
@@ -3157,7 +3158,7 @@ h2.section-title::after {
 .hotel-tag {
   align-self: flex-start;
   font-family: 'Outfit', sans-serif;
-  font-size: 0.75rem;
+  font-size: 0.862rem;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -3180,7 +3181,7 @@ h2.section-title::after {
 
 .hotel-subtitle {
   font-family: 'Outfit', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.495rem;
   font-weight: 600;
   color: var(--accent);
   margin: 0 0 20px;
@@ -3197,7 +3198,7 @@ h2.section-title::after {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  font-size: 0.9rem;
+  font-size: 1.035rem;
   font-weight: 600;
   color: var(--text-muted);
   padding: 8px 16px;
@@ -3211,7 +3212,7 @@ h2.section-title::after {
 }
 
 .hotel-description {
-  font-size: 1.05rem;
+  font-size: 1.208rem;
   color: var(--text-muted);
   line-height: 1.7;
   margin-bottom: 36px;
@@ -3230,13 +3231,13 @@ h2.section-title::after {
   display: flex;
   align-items: center;
   gap: 14px;
-  font-size: 1rem;
+  font-size: 1.15rem;
   color: var(--text);
 }
 
 .meta-item i {
   color: var(--accent);
-  font-size: 1.2rem;
+  font-size: 1.38rem;
 }
 
 .hotel-actions {
@@ -3249,7 +3250,7 @@ h2.section-title::after {
   gap: 12px;
   background: linear-gradient(135deg, var(--accent), var(--light-gold));
   color: var(--bg);
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-weight: 700;
   border-radius: 50px;
   padding: 16px 36px;
@@ -3350,7 +3351,7 @@ h2.section-title::after {
   color: var(--text-muted);
   text-decoration: none;
   font-weight: 500;
-  font-size: 0.88rem;
+  font-size: 1.012rem;
   padding: 6px 12px;
   border-radius: 8px;
   transition: all 0.2s;
@@ -3370,7 +3371,7 @@ h2.section-title::after {
 
 .footer-copy {
   color: var(--text-dim);
-  font-size: 0.82rem;
+  font-size: 0.943rem;
 }
 
 /* ── Back to Top ─────────────────────────────────────────── */
@@ -3391,7 +3392,7 @@ h2.section-title::after {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1rem;
+  font-size: 1.15rem;
   box-shadow: 0 4px 20px rgba(34, 211, 238, 0.35);
   transition: opacity 0.3s, visibility 0.3s, transform 0.3s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s;
 }
@@ -3471,7 +3472,7 @@ h2.section-title::after {
 }
 
 .hero-highlights .highlight-label {
-  font-size: 0.7rem;
+  font-size: 0.805rem;
   color: var(--text-muted);
   font-weight: 700;
   text-transform: uppercase;
@@ -3480,7 +3481,7 @@ h2.section-title::after {
 }
 
 .hero-highlights .highlight-value {
-  font-size: 0.95rem;
+  font-size: 1.092rem;
   color: var(--text);
   font-weight: 600;
 }
@@ -3596,7 +3597,7 @@ button,
 
   .topic-main,
   .luxury-topic-title {
-    font-size: 1.35rem;
+    font-size: 1.552rem;
   }
 
   .subtopics-grid,
@@ -3743,14 +3744,14 @@ button,
   }
 
   .hero-details .conference-date-location {
-    font-size: 0.85rem;
+    font-size: 0.977rem;
     padding: 7px 14px;
   }
 
   .registration-btn,
   .luxury-btn.registration-btn {
     padding: 14px 28px;
-    font-size: 0.88rem;
+    font-size: 1.012rem;
   }
 
   .date-card.luxury-glass-card {
